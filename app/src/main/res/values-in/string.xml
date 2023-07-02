@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="hint_email">Masukkan email anda</string>
+    <string name="hint_password">Masukkan password anda</string>
+    <string name="wrong_email">Format email salah</string>
+    <string name="wrong_password">Password harus lebih dari 8 karakter</string>
+    <string name="permission_not_granted">Permission tidak diberikan</string>
+    <string name="success_upload">Upload sukses</string>
+    <string name="failed_upload">Upload gagal</string>
+    <string name="insertfirst">Masukkan foto terlebih dahulu</string>
+    <string name="choosepicture">Pilih gambar</string>
+    <string name="failed_load">Gagal load story</string>
+    <string name="login_success">Login sukses</string>
+    <string name="login_failed">Login gagal</string>
+    <string name="insertinputwarning">Masukkan semua input dengan benar</string>
+    <string name="register_success">Register sukses</string>
+    <string name="register_failed">Register gagal</string>
+    <string name="upload">Unggah</string>
+    <string name="description_hint">masukkan deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="Galery">Galeri</string>
+    <string name="name">nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="sign_up">Mendaftar</string>
+    <string name="name_hint">Masukkan nama anda</string>
+    <string name="logout">Keluar</string>
+    <string name="language">Bahasa</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="maps">Peta</string>
+    <string name="retry">Coba lagi</string>
+</resources>
